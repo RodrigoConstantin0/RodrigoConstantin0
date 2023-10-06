@@ -18,6 +18,6 @@ Segue a baixo minhas redes sociais pessoais e profissional 🙂
 </div><br/>
 
 ## Estou atualmente estudando 👇
-
+- Ada Tech - Programa de Trainee _Code@CS, Front-end
 - Linguagem Javascrip - Curso em video
 - Instituto Alcanse Ensino profissionalizante - Desenvolvimento de sistemas
